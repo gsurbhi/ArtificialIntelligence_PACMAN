@@ -1,0 +1,13 @@
+Question 1 (3 points): Exact Inference Observation
+
+Question 2 (4 points): Exact Inference with Time Elapse
+
+Question 3 (3 points): Exact Inference Full Test
+
+Question 4 (3 points): Approximate Inference Observation
+
+Question 5 (4 points): Approximate Inference with Time Elapse
+
+Question 6 (4 points): Joint Particle Filter Observation
+
+Question 7 (4 points): Joint Particle Filter with Elapse Time

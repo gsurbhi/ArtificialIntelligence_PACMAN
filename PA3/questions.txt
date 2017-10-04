@@ -1,0 +1,15 @@
+Question 1 (6 points): Value Iteration
+
+Question 2 (1 point): Bridge Crossing Analysis
+
+Question 3 (5 points): Policies
+
+Question 4 (5 points): Q-Learning
+
+Question 5 (3 points): Epsilon Greedy
+
+Question 6 (1 points): Bridge Crossing Revisited
+
+Question 7 (1 points): Approximate Q-learning I
+
+Question 8 (3 points): Approximate Q-Learning II

@@ -1,0 +1,11 @@
+Question 1 (4 points): Reflex Agent
+Improve the ReflexAgent in multiAgents.py to play respectably. 
+
+Question 2 (5 points): Minimax
+Write an adversarial search agent in the provided MinimaxAgent class stub in multiAgents.py
+
+Question 3 (5 points): Alpha-Beta Pruning
+
+Question 4 (5 points): Expectimax
+
+Question 5 (6 points): Evaluation Function

@@ -1,0 +1,20 @@
+Question 1: Finding a Fixed Food Dot using Depth First Search
+
+Question 2: Breadth First Search
+
+Question 3 (3 points): Varying the Cost Function
+While BFS will find a fewest-actions path to the goal, we might want to find paths that are "best" in other senses. Consider mediumDottedMaze and mediumScaryMaze.
+By changing the cost function, we can encourage Pacman to find different paths. For example, we can charge more for dangerous steps in ghost-ridden areas or less for steps in food-rich areas, and a rational Pacman agent should adjust its behavior in response.
+Implement the uniform-cost graph search algorithm in the uniformCostSearch function in search.py.
+
+Question 4 (3 points): A* search
+
+Question 5 (3 points): Finding All the Corners
+
+Question 6 (3 points): Corners Problem: Heuristic
+
+Question 7 (4 points): Eating All The Dots
+
+Question 8 (3 points): Suboptimal Search
+Sometimes, even with A* and a good heuristic, finding the optimal path through all the dots is hard. In these cases, we'd still like to find a reasonably good path, quickly. In this section, you'll write an agent that always greedily eats the closest dot. ClosestDotSearchAgent is implemented for you in searchAgents.py, but it's missing a key function that finds a path to the closest dot.
+Implement the function findPathToClosestDot in searchAgents.py.
